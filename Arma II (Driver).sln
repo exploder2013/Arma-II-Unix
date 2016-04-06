@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hack", "Crosshair\Crosshair.vcxproj", "{1A9D9E4D-B897-41B5-BC97-363450C0247D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arma II (Driver)", "Crosshair\Crosshair.vcxproj", "{1A9D9E4D-B897-41B5-BC97-363450C0247D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0969F0A2-4B8D-45DB-AE62-F738A21102B2}"
 	ProjectSection(SolutionItems) = preProject
