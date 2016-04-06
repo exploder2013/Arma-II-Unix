@@ -1,0 +1,67 @@
+[06 Apr][18:20:50]: 117894776
+[06 Apr][18:20:50]: 0: Name:  Text: 0ºÁ Source: 
+[06 Apr][18:20:50]: 1: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 2: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 3: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 4: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 5: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 6: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 7: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 8: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 9: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 10: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 11: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 12: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 13: Name:  Text:  Source: P
+[06 Apr][18:20:50]: 14: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 15: Name:  Text:  Source: 
+[06 Apr][18:20:50]: 16: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 117894776
+[06 Apr][18:21:26]: 0: Name:  Text: 0w	= !–Í¯w$6 Source: 
+[06 Apr][18:21:26]: 1: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 2: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 3: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 4: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 5: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 6: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 7: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 8: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 9: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 10: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 11: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 12: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 13: Name:  Text:  Source: P
+[06 Apr][18:21:26]: 14: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 15: Name:  Text:  Source: 
+[06 Apr][18:21:26]: 16: Name:  Text:  Source: 
+[06 Apr][18:22:28]: 117894776
+[06 Apr][18:22:33]: 0: Name:  Text: 0x­ Source: 
+[06 Apr][18:22:49]: 1: Name:  Text:  Source: 
+[06 Apr][18:22:51]: 2: Name:  Text:  Source: 
+[06 Apr][18:22:53]: 3: Name:  Text:  Source: 
+[06 Apr][18:22:54]: 4: Name:  Text:  Source: 
+[06 Apr][18:22:56]: 5: Name:  Text:  Source: 
+[06 Apr][18:22:57]: 6: Name:  Text:  Source: 
+[06 Apr][18:22:59]: 7: Name:  Text:  Source: 
+[06 Apr][18:23:00]: 8: Name:  Text:  Source: 
+[06 Apr][18:23:02]: 9: Name:  Text:  Source: 
+[06 Apr][18:23:04]: 10: Name:  Text:  Source: 
+[06 Apr][18:23:05]: 11: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 117894776
+[06 Apr][18:23:38]: 0: Name:  Text: 0ýýýýÝÝÝ|iÆ¡A Source: 
+[06 Apr][18:23:38]: 1: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 2: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 3: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 4: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 5: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 6: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 7: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 8: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 9: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 10: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 11: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 12: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 13: Name:  Text:  Source: PýýýýÝÝÝ@i¡B
+[06 Apr][18:23:38]: 14: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 15: Name:  Text:  Source: 
+[06 Apr][18:23:38]: 16: Name:  Text:  Source: 
