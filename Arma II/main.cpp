@@ -79,12 +79,14 @@ INT WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 	GetCurrentDirectory(MAX_PATH, currentPath);
 	wstring curPath = wstring( currentPath ) + L"\\Loader\\";
 
+/*
 	if ( !dMGR.loadDriverless( curPath, L"FLDR.exe" , L"FMGR.sys" ) ) {
-		//MessageBox(NULL, L"Couldn't load DRIVER", NULL, NULL), exit(0);
+		MessageBox(NULL, L"Couldn't load DRIVER", NULL, NULL), exit(0);
 		console->sendInput( "Couldn't load driver! Operations will not work." );
 	} else {
 		console->sendInput( "Driver created with name: FMGR! Unloading virtual driver." );
 	}
+*/
 
 	d3d9.addMenu("Exploder's Menu", 10, 10, VK_OEM_PLUS);
 
